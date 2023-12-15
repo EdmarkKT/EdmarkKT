@@ -1,7 +1,7 @@
--  Hi, I’m @EdmarkKT You can call me Ed
+-  Hi, I’m @EdmarkKT You can call me Ed Im a student and about to enter the field of programming
 -  I’m interested in Anime and Mangas hehe
 -  I’m currently learning C#, JavaScript, and C++
--  I’m looking to collaborate on ...
+-  I’m looking to collaborate on my future projects
 -  How to reach me: via Discord- kusunokitomorii
 
 <!---
